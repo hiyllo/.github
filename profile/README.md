@@ -1,6 +1,5 @@
 # Hi, hello, we're Hiyllo* 👋
-
-*yes that's where the name came from.
+###### *yes that's where the name came from.
 
 We make products focused on streamlining productivity for teams and high performing individuals.
 
