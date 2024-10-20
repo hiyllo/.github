@@ -1,6 +1,6 @@
-# Hi, hello, we're Hiyllo[^1] 👋
+# Hi, hello, we're Hiyllo* 👋
 
-[^1] yes that's where the name came from.
+*yes that's where the name came from.
 
 We make products focused on streamlining productivity for teams and high performing individuals.
 
